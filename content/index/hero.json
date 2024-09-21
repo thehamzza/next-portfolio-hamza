@@ -1,0 +1,32 @@
+{
+	"intro": {
+		"start": "const Hamza = ( name, passion ) =>",
+		"end": "Hello, my name is",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "Muhammad Hamza.",
+		"usp": "I design and build meaningful solutions."
+	},
+
+	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+
+	"buttons": {
+		"primary": {
+			"title": "Contact Me",
+			"url": "https://www.linkedin.com/in/muhammad-hamza-shakoor/",
+			"leaveSite": false
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/in/muhammad-hamza-shakoor/",
+			"leaveSite": "true"
+		}
+	}
+}

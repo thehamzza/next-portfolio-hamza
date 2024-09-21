@@ -1,0 +1,15 @@
+{
+	"name": "Muhammad Hamza",
+	"logo": "",
+	
+	"username": {
+		"github": "thehamzza",
+		"medium": "@the.hamza"
+	},
+
+	"portfolio": { 
+		"forkthis": "Steal this theme! Its open-source 🥰",
+		"repo_html": "https://www.github.com/thehamzza/portfolio",
+		"repo_api": "https://api.github.com/repos/thehamzza/portfolio"
+	}
+}
