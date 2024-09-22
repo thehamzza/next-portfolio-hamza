@@ -24,10 +24,32 @@
 
 	"links": [
 		{ 
-			"person": "YWFT Creative Marketplace",
+			"person": "Calendly",
 			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
+			"note": "Book a meeting."
+		},
+		{ 
+			"person": "Phone",
+			"link": "https://www.youworkforthem.com/?aff=1115",
+			"note": "Call me."
+		},
+		{ 
+			"person": "Email",
+			"link": "https://www.youworkforthem.com/?aff=1115",
+			"note": "Write an email."
+		},
+		{ 
+			"person": "Resume",
+			"link": "https://www.youworkforthem.com/?aff=1115",
+			"note": "Download my latest resume."
+		},
+		{ 
+			"person": "Services",
+			"link": "https://www.fiverr.com/itshamza100",
+			"note": "Request a service."
 		}
+
+
 	],
 
 	"social": [
@@ -44,16 +66,18 @@
 			"icon": "github"
 		},
 		{
-			"url": "https://github.com/thehamzza",
-			"icon": "github"
-		},
-		{
-			"url": "https://stackoverflow.com/users/13918295/hamza-malik",
-			"icon": "stackoverflow"
-		},
-		{
-			"url": "https://huggingface.co/the-hamza",
-			"icon": "huggingface"
+			"url": "https://wa.me/+923046685004",
+			"icon": "whatsapp"
 		}
+		,
+		{
+			"url": "https://www.upwork.com/freelancers/~019f4a4d5b9a3239e0",
+			"icon": "upwork"
+		},
+		{
+			"url": "https://wa.me/+923046685004",
+			"icon": "phone"
+		}
+	
 	]
 }

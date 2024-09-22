@@ -46,7 +46,7 @@ export default function About() {
 							copy="Beyond my technical expertise, I excel in leadership, time management, and multitasking, developed through my experience as a software engineer and project manager. I’m a team player, passionate about delivering value. Outside of work, I stay active through swimming, powerlifting and hiking, which fuel my discipline and creativity." 
 							/>
 						<BadgesBlock 
-							title="Reasearch and development" 
+							title="Research and development" 
 							containerClass={about.container}
 							list={methods} 
 							fullContainer="fullContainer"

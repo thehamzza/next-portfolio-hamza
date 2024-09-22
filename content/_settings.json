@@ -8,8 +8,7 @@
 	},
 
 	"portfolio": { 
-		"forkthis": "Steal this theme! Its open-source 🥰",
-		"repo_html": "https://www.github.com/thehamzza/portfolio",
-		"repo_api": "https://api.github.com/repos/thehamzza/portfolio"
+		"repo_html": "https://github.com/thehamzza/next-portfolio-hamza",
+		"repo_api": "https://api.github.com/thehamzza/next-portfolio-hamza"
 	}
 }
