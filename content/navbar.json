@@ -12,6 +12,10 @@
 		"title": "Articles"
 	},
 	{
+		"url": "/contact",
+		"title": "Contact"
+	},
+	{
 		"url": "/case-studies",
 		"title": "Case Studies"
 	}

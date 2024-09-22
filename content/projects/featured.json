@@ -1,59 +1,350 @@
 [
-	
-	{
-        "project": "Test DocuMentor: RAG-Powered Interactive PDF Assistant",
-        "url": "https://github.com/muhammadhamza/documentor",
+    {
+        "project": "DocuMentor: RAG-Powered Interactive PDF Assistant",
+        "url": "https://github.com/yourgithubusername",
         "repo": "Public",
-        "descriptionTitle": "Test Interactive PDF Assistant",
-        "description": "Test An interactive system allowing users to input a PDF and ask questions, receiving precise, content-derived answers using AI&ML techniques.",
-        "category": ["AI&ML","web"],
-        "imageOptions": [],
+        "descriptionTitle": "Interactive PDF Assistant",
+        "description": "A system allowing users to input a PDF and pose questions, receiving precise, content-derived answers using RAG methodology.",
+        "category": ["AI&ML", "python"],
         "images": [
-            { "key": "mock-stack", "hover": "right", "h": "1200", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
         ],
         "stack": [
             { "key": "python", "name": "Python", "type": "devicon" },
             { "key": "openai", "name": "OpenAI", "type": "devicon" },
+            { "key": "langchain", "name": "LangChain", "type": "devicon" },
             { "key": "pinecone", "name": "Pinecone", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Cyber Brain: EEG Signals Based Thought to Text Translation",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Brain Computer Interface",
+        "description": "Developed a BCI system to help physically disabled people, enabling thought-to-text translation using EEG signals.",
+        "category": ["AI&ML", "python"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "python", "name": "Python", "type": "devicon" },
+            { "key": "eeg", "name": "EEG", "type": "devicon" },
+            { "key": "tensorflow", "name": "TensorFlow", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Artistic Pattern Formation using Multi-Robot System",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Multi-Robot System",
+        "description": "Developed a system for multi-robot pattern formation on arbitrary target patterns with smooth, collision-free deployment.",
+        "category": ["AI&ML", "python"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "ros", "name": "ROS", "type": "devicon" },
+            { "key": "python", "name": "Python", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Sentiment Analysis System for Movie Reviews",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Sentiment Analysis System",
+        "description": "A machine learning-based system to classify movie reviews as positive or negative, using scikit-learn and XGBoost.",
+        "category": ["AI&ML", "datascience"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "python", "name": "Python", "type": "devicon" },
+            { "key": "scikit-learn", "name": "Scikit-learn", "type": "devicon" },
+            { "key": "xgboost", "name": "XGBoost", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Facial Recognition Based Attendance System",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Attendance System using Facial Recognition",
+        "description": "Developed a facial recognition-based attendance system using OpenCV and Haar Cascade algorithms.",
+        "category": ["AI&ML", "python"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "opencv", "name": "OpenCV", "type": "devicon" },
+            { "key": "python", "name": "Python", "type": "devicon" },
+            { "key": "sqlite", "name": "SQLite", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Neural Network Model to Predict Handwritten Digits",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Digit Recognition Model",
+        "description": "Built a neural network using Keras and TensorFlow to predict handwritten digits with high accuracy.",
+        "category": ["AI&ML", "python"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "tensorflow", "name": "TensorFlow", "type": "devicon" },
+            { "key": "keras", "name": "Keras", "type": "devicon" },
+            { "key": "python", "name": "Python", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Evilsgt-Image-Maps",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Image Mapping Project",
+        "description": "Created an image mapping application to classify satellite images using an active contour model.",
+        "category": ["AI&ML", "datascience"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "python", "name": "Python", "type": "devicon" },
+            { "key": "opencv", "name": "OpenCV", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Super Store Sales Dash App",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Sales Analytics Dashboard",
+        "description": "Developed a sales analysis dashboard using Dash for analyzing Superstore sales data.",
+        "category": ["web", "datascience"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "dash", "name": "Dash", "type": "devicon" },
+            { "key": "plotly", "name": "Plotly", "type": "devicon" },
+            { "key": "python", "name": "Python", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Streamlit-Web-App-Motor-Vehicle-Collisions",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "NYC Motor Vehicle Collisions Dashboard",
+        "description": "Interactive web app displaying analytics on vehicular accidents in NYC using Streamlit and Python.",
+        "category": ["web", "datascience"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "python", "name": "Python", "type": "devicon" },
+            { "key": "streamlit", "name": "Streamlit", "type": "devicon" },
+            { "key": "numpy", "name": "NumPy", "type": "devicon" },
+            { "key": "pandas", "name": "Pandas", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "SMS-bot Django Admin Panel",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Django Admin Panel",
+        "description": "Built an admin panel to manage and monitor an SMS bot using Django.",
+        "category": ["web"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "django", "name": "Django", "type": "devicon" },
+            { "key": "bootstrap", "name": "Bootstrap", "type": "devicon" },
+            { "key": "sqlite", "name": "SQLite", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Django Expense Tracker API",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Expense Tracking System",
+        "description": "Developed a full-stack expense tracker with Django backend and React frontend for managing expenses.",
+        "category": ["web", "datascience"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "django", "name": "Django", "type": "devicon" },
+            { "key": "react", "name": "React", "type": "devicon" },
+            { "key": "postgresql", "name": "PostgreSQL", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Data Gurus Market Data Management",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "ETL Pipeline for Data Management",
+        "description": "Developed an ETL pipeline for parsing XML files and integrating them into Databricks using PySpark.",
+        "category": ["datascience"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "pyspark", "name": "PySpark", "type": "devicon" },
+            { "key": "databricks", "name": "Databricks", "type": "devicon" },
+            { "key": "python", "name": "Python", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Two-Way Chat Application Using Socket Programming",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Python Chat Application",
+        "description": "Developed a two-way chat application using socket programming with user authentication.",
+        "category": ["python"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "python", "name": "Python", "type": "devicon" },
+            { "key": "socket", "name": "Socket Programming", "type": "devicon" }
         ]
     },
 
     {
-        "project": "DocuMentor: RAG-Powered Interactive PDF Assistant",
-        "url": "https://github.com/muhammadhamza/documentor",
+        "project": "Digital Speedometer",
+        "url": "https://github.com/yourgithubusername",
         "repo": "Public",
-        "descriptionTitle": "Interactive PDF Assistant",
-        "description": "An interactive system allowing users to input a PDF and ask questions, receiving precise, content-derived answers using AI&ML techniques.",
-        "category": ["AI&ML"],
-        "imageOptions": [],
+        "descriptionTitle": "Digital Speed Measurement Device",
+        "description": "A hardware project designed to measure speed using IR sensors and digital logic design.",
+        "category": ["python"],
         "images": [
-            { "key": "mock-stack", "hover": "right", "h": "1200", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
         ],
         "stack": [
-            { "key": "python", "name": "Python", "type": "devicon" },
-            { "key": "openai", "name": "OpenAI", "type": "devicon" },
-            { "key": "pinecone", "name": "Pinecone", "type": "devicon" }
+            { "key": "c++", "name": "C++", "type": "devicon" },
+            { "key": "arduino", "name": "Arduino", "type": "devicon" }
         ]
     },
     {
-        "project": "DocuMentor: RAG-Powered Interactive PDF Assistant",
-        "url": "https://github.com/muhammadhamza/documentor",
+        "project": "Binder - Main Colors of Images",
+        "url": "https://github.com/yourgithubusername",
         "repo": "Public",
-        "descriptionTitle": "Interactive PDF Assistant",
-        "description": "An interactive system allowing users to input a PDF and ask questions, receiving precise, content-derived answers using AI&ML techniques.",
+        "descriptionTitle": "Color Classification Tool",
+        "description": "Developed a tool to extract main colors from images, classify them, and save results to an Excel file.",
         "category": ["datascience"],
-        "imageOptions": [],
         "images": [
-            { "key": "mock-stack", "hover": "right", "h": "1200", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
         ],
         "stack": [
             { "key": "python", "name": "Python", "type": "devicon" },
-            { "key": "openai", "name": "OpenAI", "type": "devicon" },
-            { "key": "pinecone", "name": "Pinecone", "type": "devicon" }
+            { "key": "opencv", "name": "OpenCV", "type": "devicon" },
+            { "key": "pandas", "name": "Pandas", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Facebook Data Scraper",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Facebook Data Scraper",
+        "description": "Scraped Facebook data using automation and stored user profiles, posts, and comments in CSV files.",
+        "category": ["python"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "python", "name": "Python", "type": "devicon" },
+            { "key": "selenium", "name": "Selenium", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "School Management System",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "C++ School Management Application",
+        "description": "Created a comprehensive school management system using C++ with multiple features like attendance and grading.",
+        "category": ["python"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "c++", "name": "C++", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Data Gurus Market Data Management",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "ETL Pipeline for Data Management",
+        "description": "Developed an ETL pipeline for parsing XML files and integrating them into Databricks using PySpark.",
+        "category": ["datascience"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "pyspark", "name": "PySpark", "type": "devicon" },
+            { "key": "databricks", "name": "Databricks", "type": "devicon" },
+            { "key": "python", "name": "Python", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Image Pattern Locator",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Pattern Locator in Images",
+        "description": "A Python-based tool to locate specific patterns in images and plot their coordinates.",
+        "category": ["datascience"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "python", "name": "Python", "type": "devicon" },
+            { "key": "opencv", "name": "OpenCV", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Komix - Freelance Website",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Freelance Platform",
+        "description": "Developed a freelance website where users can offer and hire services, built using PHP, HTML, CSS, and SQL.",
+        "category": ["web"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "php", "name": "PHP", "type": "devicon" },
+            { "key": "html5", "name": "HTML5", "type": "devicon" },
+            { "key": "css3", "name": "CSS3", "type": "devicon" },
+            { "key": "mysql", "name": "MySQL", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Support tickets template",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Support Tickets Management",
+        "description": "A Streamlit app that allows users to create, manage, and visualize support tickets.",
+        "category": ["web", "datascience"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "python", "name": "Python", "type": "devicon" },
+            { "key": "streamlit", "name": "Streamlit", "type": "devicon" },
+            { "key": "sqlite", "name": "SQLite", "type": "devicon" }
+        ]
+    },
+    {
+        "project": "Expense Tracker Application",
+        "url": "https://github.com/yourgithubusername",
+        "repo": "Public",
+        "descriptionTitle": "Expense Tracker",
+        "description": "A full-stack expense tracker application with Django backend and React frontend.",
+        "category": ["web", "datascience"],
+        "images": [
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+        ],
+        "stack": [
+            { "key": "django", "name": "Django", "type": "devicon" },
+            { "key": "react", "name": "React", "type": "devicon" },
+            { "key": "postgresql", "name": "PostgreSQL", "type": "devicon" }
         ]
     }
-
-
-
-
 ]
