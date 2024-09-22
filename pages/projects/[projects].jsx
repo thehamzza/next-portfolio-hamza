@@ -10,11 +10,13 @@ import Tabs from '../../components/blocks/projects/Tabs';
 
 export default function FeaturedProjects() {
 
+
+ debugger;
     const router = useRouter();
     const { projects } = router.query;
     const filteredProjects = projects
-    ? content.filter((proj) => proj.category === projects)
-    : content;
+  ? content.filter((proj) => Array.isArray(proj.category) && proj.category.includes(projects))
+  : content;
 	
 
 	return (
