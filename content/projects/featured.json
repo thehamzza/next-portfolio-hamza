@@ -55,7 +55,7 @@
         "description": "A machine learning-based system to classify movie reviews as positive or negative, using scikit-learn and XGBoost.",
         "category": ["AI&ML", "datascience"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "https://res.cloudinary.com/dtzvlngw9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1727450292/banner_cicchv.webp" }
         ],
         "stack": [
             { "key": "python", "name": "Python", "type": "devicon" },

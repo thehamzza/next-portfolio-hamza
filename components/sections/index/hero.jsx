@@ -65,17 +65,17 @@ export default function Hero() {
 				</section>
 				<section>
 					<button	className={`button ${button.primary}`}
-							onClick={ () => window.location = 'mailto:its.hamza100@gmail.com' } >
+							onClick={ () => window.location = '/contact' } >
 						{content.buttons.primary.title}
 					</button>
 					<button className={`button ${button.secondary} leaveSite`}
 							onClick={ ()=> window.open("https://www.linkedin.com/in/muhammad-hamza-shakoor/", "_blank") } >
 						{content.buttons.secondary.title}
 					</button>
-					<button className={`button ${button.secondary} leaveSite`}
+					{/* <button className={`button ${button.secondary} leaveSite`}
 							onClick={ ()=> window.open("https://calendly.com/hamzza/30min", "_blank") } >
 						{'Book Meeting'}
-					</button>
+					</button> */}
 				</section>
 			</Container>
 			<HeroBg theme="bg-color-1" />

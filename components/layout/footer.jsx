@@ -33,12 +33,12 @@ export default function Footer() {
 			<Container spacing={['verticalXXLrg', 'bottomLrg']}>
 				<section className={css.sections}>
 					<ul className={css.thanks}>
-						<li><h4>Acknowledgments</h4></li>
+						<li><h4>Insights</h4></li>
 						{
-						content.acknowledgments.map( ({ person, link, note }, index) => {
+						content.insights.map( ({ title, link, note }, index) => {
 							return (
 								<li key={index}>
-									<a href={link} rel="noreferrer" target="_blank">{person} <Icon icon={[ 'fad', 'arrow-up-right-from-square' ]} /></a>
+									<a href={link} rel="noreferrer" target="_blank">{title} <Icon icon={[ 'fad', 'arrow-up-right-from-square' ]} /></a>
 									<p>{note}</p>
 								</li>
 							)
@@ -71,7 +71,7 @@ export default function Footer() {
 						</li>
 					</ul>
 				</section>
-				<section className={css.github}>
+				{/* <section className={css.github}>
 					<a href={settings.portfolio.repo_html} rel="noreferrer" target="_blank">
 						<h5>{settings.portfolio.forkthis}</h5>
 						<ul>
@@ -83,7 +83,7 @@ export default function Footer() {
 							</li>
 						</ul>
 					</a>
-				</section>
+				</section> */}
 			</Container>
 			<canvas id="gradient-canvas" className={''} data-transition-in ></canvas>
 		</footer>

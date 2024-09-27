@@ -1,4 +1,5 @@
 import FeaturedProject from '../../blocks/projects/featured'
+import button 		from '../../../styles/blocks/button.module.scss';
 
 
 // Section structure
@@ -21,6 +22,16 @@ export default function FeaturedProjects() {
 					subTitle="Focused on the experience, driven by the engineering."
                     
 				/> 		
+				<div style={{ display: 'flex', justifyContent: 'center', marginTop: '-80px', marginBottom: '-50px' }}>
+					<button
+					className={`button ${button.primary} leaveSite`}
+					onClick={() => window.open("https://github.com/thehamzza?tab=repositories", "_blank")}>
+					{'Explore Github'}
+					</button>
+				</div>
+
+
+
 				<Tabs currentCategory="all"/>
 	        	{
 				content.map( (data, index) => {

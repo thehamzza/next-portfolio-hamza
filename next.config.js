@@ -35,6 +35,11 @@ module.exports = {
 				hostname: '**.medium.com',
 				pathname: '/**'
 			},
+			{
+				protocol: 'https',
+				hostname: 'res.cloudinary.com', // Add Cloudinary domain
+				pathname: '/**',              // Accept any path
+			},
 		],
 	},
 }

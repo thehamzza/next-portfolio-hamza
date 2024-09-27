@@ -20,7 +20,7 @@
 	"buttons": {
 		"primary": {
 			"title": "Contact Me",
-			"url": "https://www.linkedin.com/in/muhammad-hamza-shakoor/",
+			"url": "/contact",
 			"leaveSite": false
 		},
 		"secondary": {
