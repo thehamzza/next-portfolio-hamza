@@ -11,22 +11,22 @@
 	"links": [
 		{ 
 			"person": "Calendly",
-			"link": "https://www.youworkforthem.com/?aff=1115",
+			"link": "/contact",
 			"note": "Book a meeting."
 		},
 		{ 
 			"person": "Phone",
-			"link": "https://www.youworkforthem.com/?aff=1115",
+			"link": "/contact",
 			"note": "Call me."
 		},
 		{ 
 			"person": "Email",
-			"link": "https://www.youworkforthem.com/?aff=1115",
+			"link": "/contact",
 			"note": "Write an email."
 		},
 		{ 
 			"person": "Resume",
-			"link": "https://www.youworkforthem.com/?aff=1115",
+			"link": "/contact",
 			"note": "Download my latest resume."
 		},
 		{ 
