@@ -1,13 +1,13 @@
 [
     {
         "project": "DocuMentor: RAG-Powered Interactive PDF Assistant",
-        "url": "https://github.com/thehamzza/DocuMentor-RAG-Powered-Interactive-PDF-Assistant",
+        "url": "https://github.com/thehamzza/DocuMentor-RAG-Powered-Interactive-PDF-Assistant/",
         "repo": "Public",
         "descriptionTitle": "Interactive PDF Assistant",
         "description": "A system allowing users to input a PDF and pose questions, receiving precise, content-derived answers using RAG methodology.",
         "category": ["AI&ML", "python"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/close-up-metallic-mannequin_23-2151113195.jpg" }
         ],
         "stack": [
             { "key": "python", "name": "Python", "type": "devicon" },
@@ -24,7 +24,7 @@
         "description": "Developed a BCI system to help physically disabled people, enabling thought-to-text translation using EEG signals.",
         "category": ["AI&ML", "python"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/3d-render-grunge-style-brain-image-dna-strands-background_1048-6469.jpg" }
         ],
         "stack": [
             { "key": "python", "name": "Python", "type": "devicon" },
@@ -40,7 +40,7 @@
         "description": "Developed a system for multi-robot pattern formation on arbitrary target patterns with smooth, collision-free deployment.",
         "category": ["AI&ML", "python"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/3d-rendering-holographic-layering_23-2150491103.jpg" }
         ],
         "stack": [
             { "key": "ros", "name": "ROS", "type": "devicon" },
@@ -55,7 +55,7 @@
         "description": "A machine learning-based system to classify movie reviews as positive or negative, using scikit-learn and XGBoost.",
         "category": ["AI&ML", "datascience"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "https://res.cloudinary.com/dtzvlngw9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1727450292/banner_cicchv.webp" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/full-shot-robots-hugging-fantasy-world_23-2150900575.jpg" }
         ],
         "stack": [
             { "key": "python", "name": "Python", "type": "devicon" },
@@ -71,7 +71,7 @@
         "description": "Developed a facial recognition-based attendance system using OpenCV and Haar Cascade algorithms.",
         "category": ["AI&ML", "python"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/3d-woman-shape-glowing-with-bright-holographic-colors_23-2151037185.jpg" }
         ],
         "stack": [
             { "key": "opencv", "name": "OpenCV", "type": "devicon" },
@@ -87,7 +87,7 @@
         "description": "Built a neural network using Keras and TensorFlow to predict handwritten digits with high accuracy.",
         "category": ["AI&ML", "python"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-vector/number-9-brush-stroke-distressed-style-typography-vector_53876-177863.jpg" }
         ],
         "stack": [
             { "key": "tensorflow", "name": "TensorFlow", "type": "devicon" },
@@ -103,7 +103,7 @@
         "description": "Created an image mapping application to classify satellite images using an active contour model.",
         "category": ["AI&ML", "datascience"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/3d-rendering-dark-earth-space_23-2151051274.jpg" }
         ],
         "stack": [
             { "key": "python", "name": "Python", "type": "devicon" },
@@ -118,7 +118,7 @@
         "description": "Developed a sales analysis dashboard using Dash for analyzing Superstore sales data.",
         "category": ["web", "datascience"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/hud-user-interface-technology-spaceship-virtual-reality-game-with-infographic-chart-navigation-button_90220-1368.jpg" }
         ],
         "stack": [
             { "key": "dash", "name": "Dash", "type": "devicon" },
@@ -134,7 +134,7 @@
         "description": "Interactive web app displaying analytics on vehicular accidents in NYC using Streamlit and Python.",
         "category": ["web", "datascience"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/traffic-street-city-center-berlin-germany_1142-42077.jpg" }
         ],
         "stack": [
             { "key": "python", "name": "Python", "type": "devicon" },
@@ -151,7 +151,7 @@
         "description": "Built an admin panel to manage and monitor an SMS bot using Django.",
         "category": ["web"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/3d-rendering-abstract-metallic-cube_23-2150979676.jpg" }
         ],
         "stack": [
             { "key": "django", "name": "Django", "type": "devicon" },
@@ -167,7 +167,7 @@
         "description": "Developed a full-stack expense tracker with Django backend and React frontend for managing expenses.",
         "category": ["web", "datascience"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/business-calculator_23-2147985461.jpg" }
         ],
         "stack": [
             { "key": "django", "name": "Django", "type": "devicon" },
@@ -183,7 +183,7 @@
         "description": "Developed an ETL pipeline for parsing XML files and integrating them into Databricks using PySpark.",
         "category": ["datascience"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/geometric-seamless-pattern_23-2151021358.jpg" }
         ],
         "stack": [
             { "key": "pyspark", "name": "PySpark", "type": "devicon" },
@@ -199,7 +199,7 @@
         "description": "Developed a two-way chat application using socket programming with user authentication.",
         "category": ["python"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/concrete-surface-with-chat-bubble_23-2148734130.jpg" }
         ],
         "stack": [
             { "key": "python", "name": "Python", "type": "devicon" },
@@ -215,7 +215,7 @@
         "description": "A hardware project designed to measure speed using IR sensors and digital logic design.",
         "category": ["python"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/close-up-metallic-timer_1194-647.jpg" }
         ],
         "stack": [
             { "key": "c++", "name": "C++", "type": "devicon" },
@@ -230,7 +230,7 @@
         "description": "Developed a tool to extract main colors from images, classify them, and save results to an Excel file.",
         "category": ["datascience"],
         "images": [
-            { "key": "portfolio", "hover": "left", "h": "797", "w": "556", "url": "/img/portfolio-mock_single.png" }
+            { "key": "portfolio", "hover": "left", "h": "500", "w": "500", "url": "https://img.freepik.com/free-photo/abstract-background-with-sound-waves-design_1048-13219.jpg?t=st=1734634033~exp=1734637633~hmac=41931d72ef97bc2deaaa41964918275b586b1a2db87b29c4a4146b1b1fb52ffa&w=1800" }
         ],
         "stack": [
             { "key": "python", "name": "Python", "type": "devicon" },

@@ -40,6 +40,12 @@ module.exports = {
 				hostname: 'res.cloudinary.com', // Add Cloudinary domain
 				pathname: '/**',              // Accept any path
 			},
+			
+			{
+				protocol: 'https',
+				hostname: 'img.freepik.com', // Add Freepik domain
+				pathname: '/**',            // Accept any path
+			},
 		],
 	},
 }
