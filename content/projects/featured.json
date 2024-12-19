@@ -1,7 +1,7 @@
 [
     {
         "project": "DocuMentor: RAG-Powered Interactive PDF Assistant",
-        "url": "https://github.com/yourgithubusername",
+        "url": "https://github.com/thehamzza/DocuMentor-RAG-Powered-Interactive-PDF-Assistant",
         "repo": "Public",
         "descriptionTitle": "Interactive PDF Assistant",
         "description": "A system allowing users to input a PDF and pose questions, receiving precise, content-derived answers using RAG methodology.",

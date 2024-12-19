@@ -103,7 +103,7 @@ export default function Technical() {
 
 						<BadgesBlock 
 							title="Software I love to work with" 
-							copy="With over 20 years of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
+							copy="With over 4 years of experience building software products, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
 							list={software}
 							block="software" 
 							fullContainer="fullContainer"
